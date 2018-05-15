@@ -20,7 +20,7 @@
             <img data-src="<?php echo base_url("assets/images/sb_2.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-2.jpg");?>">
             <div class="carousel-caption">
                 <h3> Carve </h3>
-                <p> Carve your new style on Motion 9000.</p>
+                <p> Carve your new style on Motion 30000.</p>
             </div>
         </div>
 
